@@ -1,6 +1,6 @@
 ### **A Quick Glimpse of Our Work:**
 
-![T50_onepager](https://github.com/angusf777/Cathay-Hackathon-2023/assets/114798767/6c9e2bb2-ed78-45d3-b3e1-14f1f6760563)
+![T50_onepager](https://github.com/angusf777/Cathay-Hackathon-2023/assets/114798767/2917164c-d6b2-4481-b0b6-1b57d364a1b2)
 
 ### **Link to Our UXUI Design (Figma):**
 
