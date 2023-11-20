@@ -1,3 +1,5 @@
+The following is our solution for Cathay Hackathon 2023, I served as the product manager in our team of 5.
+
 ### **A Quick Glimpse of Our Work:**
 
 ![T50_onepager](https://github.com/angusf777/Cathay-Hackathon-2023/assets/114798767/2917164c-d6b2-4481-b0b6-1b57d364a1b2)
